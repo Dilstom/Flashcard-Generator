@@ -8,6 +8,6 @@ This app uses backend for a basic flashcard application.
 
 Basic flashcards have a front ("What is the capital of Argentina? "), and a back ("Buenos Aires") properties.
 
-Onn the other side, Cloze-Deleted flashcards present partial text ("... is the capital of Belgium ") - partial property, and the cloze text ("Brussels") - cloze property.
+On the other side, Cloze-Deleted flashcards present partial text ("... is the capital of Belgium ") - partial property, and the cloze text ("Brussels") - cloze property.
 
 
